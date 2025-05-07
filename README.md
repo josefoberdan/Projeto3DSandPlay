@@ -123,7 +123,6 @@ Os casos de uso deste trabalho possibilitam:
 2. Verifique:
    - **Mapa colorido com linhas de contorno** na areia
    - **FRAMERATE em torno de 60 FPS**
-3. Pronto! Sistema funcional para uso interativo 🎉
 
 ---
 
