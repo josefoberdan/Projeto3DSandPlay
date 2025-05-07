@@ -123,6 +123,7 @@ Os casos de uso deste trabalho possibilitam:
 2. Verifique:
    - **Mapa colorido com linhas de contorno** na areia
    - **FRAMERATE em torno de 60 FPS**
+3. Execute a aplicação.
 
 ---
 
@@ -136,7 +137,7 @@ Os casos de uso deste trabalho possibilitam:
 
 Este projeto segue os termos da licença do repositório original [Magic-Sand](https://github.com/thomwolf/Magic-Sand).
 
-### **Linguagens de Programação**
+### **Linguagem de Programação**
 - **C++**: Linguagem de programação principal usada no desenvolvimento do projeto..  
   Licença: Depende do compilador utilizado (geralmente livre, como GCC/Clang ou MSVC).
   Copyright: © Desenvolvedores do compilador (ex: Free Software Foundation para GCC, Microsoft para MSVC).
