@@ -114,8 +114,8 @@ As possíveis melhorias e expansões do sistema incluem:
 ---
 
 ## **Apresentação PowerPoint do TCC**
-O slide da apresentação se encontra no arquivo do projeto nomeado como: "Rafael Abe - Slide TCC2.pptx"
-https://github.com/unlimitedabe/ProjetoTCC/blob/main/Rafael%20Abe%20-%20Slide%20TCC2.pptx
+O slide da apresentação se encontra no arquivo do projeto nomeado como: "MIT URTC 2019.pptx"
+[MIT URTC 2019.pptx](https://github.com/user-attachments/files/20091417/MIT.URTC.2019.pptx)
 
 ---
 
