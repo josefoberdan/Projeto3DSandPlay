@@ -13,17 +13,17 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
 ---
 
 ## **Requisitos do Sistema**
-- **Hardware:**
- - Sensor Microsoft Kinect, versão 1.0 (Microsoft, 2010);
- - Projetor multimídia LED Projetor, modelo YG-300 (Salange Technology, 2014);
- - Dimensões da caixa de areia: 45 centímetros de comprimento, 33 centímetros de largura e 7 centímetros de altura;
+### **Hardware:**
+ - Sensor Microsoft Kinect, versão 1.0 (Microsoft, 2010).
+ - Projetor multimídia LED Projetor, modelo YG-300 (Salange Technology, 2014).
+ - Dimensões da caixa de areia: 45 centímetros de comprimento, 33 centímetros de largura e 7 centímetros de altura.
  - Estrutura metálica galvanizada: 90 centímetros de altura.
 
-- **Software:**
- - 
-
-## ****
-- **Telegram Bot Token:** Configure
+### **Software:**
+ - ARSandbox.
+ - Magic Sand.
+ - Visual Studio Code (© Microsoft Corporation).
+ - Zadig.
 
 ---
 
@@ -109,6 +109,11 @@ https://github.com/unlimitedabe/ProjetoTCC/blob/main/Rafael%20Abe%20-%20Slide%20
 ---
 
 ## **Vídeo Apresentação do TCC**
-Vídeo de apresentação do projeto sendo executando está disponível no canal do YouTube da PUC TV Goiás nomeado como: 
+- Vídeo de apresentação do projeto sendo executando está disponível no canal do YouTube da PUC TV Goiás nomeado como: 
 "Robô que dança ajuda alunos do Projeto Alfa Down." https://www.youtube.com/watch?v=UQaTI5Wlw-c&t=190s&ab_channel=PUCTVGOI%C3%81S
+---
 Vídeo de apresentação do projeto sendo executando está disponível no seguinte drive:
+
+---
+
+Github Magic Sand: https://github.com/thomwolf/Magic-Sand/blob/master/README.md
