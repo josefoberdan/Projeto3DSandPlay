@@ -41,12 +41,15 @@ Os casos de uso deste trabalho possibilitam:
 
 ### **Fluxograma e Processos**
 1. Processos de teste:
+   
 ![image](https://github.com/user-attachments/assets/44679011-342e-46c9-b1c1-290827085b02)
 
-3. Relatório de atividade de teste:
+2. Relatório de atividade de teste:
+  
 ![image](https://github.com/user-attachments/assets/90f0404a-12b1-428f-b9c3-3af4a21d11f3)
 
-4. Teste executado por um voluntário:   
+3. Teste executado por um voluntário:
+     
 ![image](https://github.com/user-attachments/assets/f1397ddf-479c-4d93-aaca-5327ebd3c0fe)
 
 ---
