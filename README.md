@@ -39,8 +39,10 @@ Os casos de uso deste trabalho possibilitam:
 - Avaliar a capacidade de replicação das imagens projetadas em um monitor de vídeo pelos voluntários.
 - Analisar se o voluntário manifestou resistência (desconforto ou rejeição) ou interesse ao manipular a areia na caixa.
 
-### **Fluxograma**
+### **Fluxograma e Relatório**
 1. Processos de teste:
+
+2. Relatório de atividade de teste:
 [![image](https://github.com/user-attachments/assets/ff53704c-db60-4870-817c-c7a4f3d8dd96)](https://github.com/josefoberdan/Projeto3DSandPlay/issues/2)
 
 ---
