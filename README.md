@@ -1,1 +1,99 @@
-# Projeto3DSandPlay
+# Projeto 3D SandPlay
+# **Autores: Ariane Ruben Calaça Di Menezes, Gabriel dos Santos Dourado, Josef Augusto Oberdan Souza Silva, Juliana Santos de Souza Hannum e Kárita Cecília Rodrigues Silva**
+# **Orientador: Talles Marcelo Gonçalves de Andrade Barbosa**
+# **Universidade: Pontifícia Universidade Católica de Goiás**
+# **Trabalho de Conclusão de Curso**
+# **Projeto: 3D Sandplay - Um Sistema com Interface Tangível para Pessoas com Síndrome de Down**
+
+---
+
+## **Descrição do Projeto**
+Este projeto visa 
+
+---
+
+## **Requisitos do Sistema**
+- **Telegram Bot Token:** Configure
+
+---
+
+## **Funcionalidades**
+### **Interface Gráfica**
+- Exibe gráficos
+
+## **Casos de Uso**
+Os casos de uso foram baseados no trabalho de Gabriel Lima e possibilitam:
+-
+
+### **Fluxograma**
+1. Diagnóstico de Pré-eclâmpsia:
+![image](https://github.com/user-attachments/assets/ff53704c-db60-4870-817c-c7a4f3d8dd96)
+
+---
+
+## **Estrutura do Projeto**
+A estrutura foi organizada
+
+---
+
+## **Como Rodar o Projeto**
+### 0. Crie seu database
+Nesse projet
+
+```c++
+
+```
+
+### 3. Instalar Dependências
+Use o comando abaixo para instalar as bibliotecas necessárias:
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Executar o Sistema
+Inicie
+
+---
+
+## **Licenciamento**
+Este projeto utiliza as seguintes bibliotecas e tecnologias, todas com licenciamento adequado:
+
+### **Linguagens de Programação**
+- **Python**: Versão 3.12.2.  
+  Licença: Python Software Foundation License.  
+  Copyright: © Python Software Foundation.
+
+---
+
+### **Frameworks e Bibliotecas**
+- **Flask**: Framework leve para construção de APIs e aplicações web.  
+  Licença: BSD 3-Clause License.  
+  Copyright: © Pallets Project.
+
+  ---
+
+  ### **Ferramentas**
+- **VS Code**: IDE para desenvolvimento de software.  
+  Licença: MIT License.  
+  Copyright: © Microsoft Corporation.
+  
+- **Zadig**: .  
+  Licença: Proprietária.
+
+  ## **Trabalhos Futuros**
+As possíveis melhorias e expansões do sistema incluem:
+- **Novos Casos de Uso**: Adicionar outros casos de uso relacionados a área da saúde.
+- **Testes com Outras Plataformas**: 
+
+---
+
+## **Apresentação PoewrPoint do TCC**
+O slide da apresentação se encontra no arquivo do projeto nomeado como: "Rafael Abe - Slide TCC2.pptx"
+https://github.com/unlimitedabe/ProjetoTCC/blob/main/Rafael%20Abe%20-%20Slide%20TCC2.pptx
+
+---
+
+## **Vídeo Apresentação do TCC**
+Vídeo de apresentação do projeto sendo executando está disponível no arquivo do projeto nomeado como: 
+
+Vídeo de apresentação do projeto sendo executando está disponível no seguinte drive:
