@@ -13,12 +13,12 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
 ---
 ## **Requisitos do Sistema**
 - Antes de iniciar, garanta que você tenha:
- -- PC com placa de vídeo GeForce GTX 1070 TI ou superior.
- -- Windows 10 (64 bits).
- -- Microsoft Visual Studio C++ 2015.
- -- Xbox 360 Kinect 3D.
- -- Projetor LCD.
- -- Caixa com areia branca de aquário.
+  - PC com placa de vídeo GeForce GTX 1070 TI ou superior.
+  - Windows 10 (64 bits).
+  - Microsoft Visual Studio C++ 2015.
+  - Xbox 360 Kinect 3D.
+  - Projetor LCD.
+  - Caixa com areia branca de aquário.
 
 ## **Estrutura do Projeto**
 - A estrutura foi organizada da seguinte forma:
