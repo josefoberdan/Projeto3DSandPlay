@@ -11,8 +11,11 @@
 Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele disponibiliza uma **interface tangível** que pode ser utilizada como **reforçador** para o **desenvolvimento intelectual** e da **coordenação motora**. De forma exploratória, lança-se a hipótese que o uso do 3D Sandplay pode facilitar a **compreensão de conceitos abstratos** e, ao mesmo tempo, **promover a integração sensorial** em pessoas com Síndrome de Down. Este projeto foi inspirado e adaptado do [Augmented Reality Sandbox](https://arsandbox.ucdavis.edu/) desenvolvido pela [UC Davis](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/). É uma adaptação parcial do projeto [SARndbox](https://github.com/KeckCAVES/SARndbox) de Oliver Kreylos em [openframeworks](https://openframeworks.cc/) e também é uma adaptação do [ofxKinectProjectorToolkit](https://github.com/genekogan/ofxKinectProjectorToolkit) de Gene Kogan.
 
 ---
-
 ## **Requisitos do Sistema**
+- 
+
+## **Estrutura do Projeto**
+- A estrutura foi organizada da seguinte forma:
 ### **Hardware:**
  - Sensor Microsoft Kinect: versão 1.0 (Microsoft, 2010).
  - Projetor multimídia LED Projetor: modelo YG-300 (Salange Technology, 2014).
@@ -50,13 +53,7 @@ Os casos de uso deste trabalho possibilitam:
 
 3. Teste executado por um voluntário:
      
-![image](https://github.com/user-attachments/assets/f1397ddf-479c-4d93-aaca-5327ebd3c0fe)
-
----
-
-## **Estrutura do Projeto**
-- A estrutura foi organizada da seguinte forma:
- - 
+![3D_SANDPLAY_2x_optimized](https://github.com/user-attachments/assets/d7f2518b-61c9-4ef2-9e21-1c634a50fbb8)
 
 ---
 
