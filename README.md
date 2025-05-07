@@ -132,7 +132,7 @@ Os casos de uso deste trabalho possibilitam:
 
 ## 📸 Exemplo de Uso
 
-![image](https://github.com/user-attachments/assets/50de8fc9-dceb-4669-ba27-9c3660642e1a)
+![projeto TCC1](https://github.com/user-attachments/assets/cc541184-8061-4ad7-aa8e-b6719098a00a)
 
 ---
 
