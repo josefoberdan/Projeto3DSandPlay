@@ -12,7 +12,13 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
 
 ---
 ## **Requisitos do Sistema**
-- 
+- Antes de iniciar, garanta que você tenha:
+ - PC com placa de vídeo GeForce GTX 1070 TI ou superior.
+ - Windows 10 (64 bits).
+ - Microsoft Visual Studio C++ 2015.
+ - Xbox 360 Kinect 3D.
+ - Projetor LCD.
+ - Caixa com areia branca de aquário.
 
 ## **Estrutura do Projeto**
 - A estrutura foi organizada da seguinte forma:
@@ -58,26 +64,80 @@ Os casos de uso deste trabalho possibilitam:
 ---
 
 ## **Como Rodar o Projeto**
-### 0. Crie seu database
-Nesse projet
+## 🧰 Passo 1 – Instalação dos Componentes Físicos
 
-```c++
+### 1. Conectar o Hardware
+- Conecte o **Kinect** e o **Projetor** ao computador.
 
-```
+### 2. Instalar Drivers com Zadig
+- Baixe o Zadig: [https://zadig.akeo.ie/](https://zadig.akeo.ie/)
+- Execute o Zadig e:
+  - Selecione no menu:
+    - `Xbox Camera`
+    - `Xbox Audio`
+    - `Xbox Motor`
+  - Escolha o driver `libusb-win32 (v1.2.6.0)`
+  - Clique em **Install Driver**
+  - **Repita 3 vezes**, uma para cada componente
 
-### 3. Instalar Dependências
-Use o comando abaixo para instalar as bibliotecas necessárias:
-```bash
-pip install -r requirements.txt
-```
+### 3. Referência Adicional
+- [Freenect GitHub](https://github.com/OpenKinect/libfreenect)
+- [ofxKinect GitHub](https://github.com/ofTheo/ofxKinect)
 
-### 4. Executar o Sistema
-Inicie
+### 4. Problemas de Detecção
+- Instale o **Kinect V1 SDK 1.0** e execute novamente o Zadig, se necessário
 
 ---
 
-## **Licenciamento**
-Este projeto utiliza as seguintes bibliotecas e tecnologias, todas com licenciamento adequado:
+## 💻 Passo 2 – Edição do Código Fonte
+
+### 1. Instalar o Visual Studio
+- [Visual Studio C++ 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+
+### 2. Baixar o Software
+- [Magic-Sand (GitHub)](https://github.com/thomwolf/Magic-Sand/releases/tag/v1.5.4.1)
+
+### 3. Adicionar OpenFrameworks (Opcional)
+- [OpenFrameworks](https://openframeworks.cc/)
+
+---
+
+## 🎯 Passo 3 – Calibrar a Aplicação
+
+1. **Achate a areia** na caixa de areia
+2. Ative a **visualização de profundidade** em:  
+   `Avançado > Exibir Exibição de Profundidade do Kinect`
+3. Clique em **Calibração**
+4. **Desenhe a região da areia** com o mouse na visualização
+5. Pressione **“Calibrar Kinect e Projetor automaticamente”**  
+   - Um padrão de **xadrez** será projetado
+6. **Cubra a caixa** com papelão claro quando solicitado
+7. Clique em **OK** para projetar novos padrões sobre o papelão
+8. Confirme que a **janela de status** indica calibração OK
+
+---
+
+## 🟢 Passo 4 – Executar a Aplicação
+
+1. Pressione **barra de espaço** ou clique em **RUN**
+2. Verifique:
+   - **Mapa colorido com linhas de contorno** na areia
+   - **FRAMERATE em torno de 60 FPS**
+3. Pronto! Sistema funcional para uso interativo 🎉
+
+---
+
+## 📸 Exemplo de Uso
+
+![image](https://github.com/user-attachments/assets/50de8fc9-dceb-4669-ba27-9c3660642e1a)
+
+---
+
+## 🔗 Licença
+
+Este projeto segue os termos da licença do repositório original [Magic-Sand](https://github.com/thomwolf/Magic-Sand).
+
+---
 
 ### **Linguagens de Programação**
 - **Python**: Versão 3.12.2.  
