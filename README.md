@@ -148,18 +148,15 @@ Este projeto segue os termos da licença do repositório original [Magic-Sand](h
   Copyright: © Desenvolvedores do compilador (ex: Free Software Foundation para GCC, Microsoft para MSVC).
 
 ### **Tecnologias e Bibliotecas Utilizadas**
-- **openFrameworks**  
-  Framework C++ para aplicações criativas, usado para lidar com gráficos, áudio, vídeo e entrada de dispositivos.  
+- **openFrameworks**: Framework C++ para aplicações criativas, usado para lidar com gráficos, áudio, vídeo e entrada de dispositivos.  
   **Licença**: MIT License  
   **Copyright**: © openFrameworks contributors
 
-- **ofxKinect**  
-  Addon do openFrameworks para comunicação com sensores Kinect.  
+- **ofxKinect**: Addon do openFrameworks para comunicação com sensores Kinect.  
   **Licença**: MIT License  
   **Copyright**: © Theo Watson e contribuidores do addon
 
-- **libfreenect**  
-  Biblioteca usada para acessar os dados do Kinect (driver alternativo).  
+- **libfreenect**: Biblioteca usada para acessar os dados do Kinect (driver alternativo).  
   **Licença**: Apache License 2.0  
   **Copyright**: © OpenKinect community
   
