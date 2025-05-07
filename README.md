@@ -41,7 +41,7 @@ Os casos de uso deste trabalho possibilitam:
 
 ### **Fluxograma**
 1. Processos de teste:
-![image](https://github.com/user-attachments/assets/ff53704c-db60-4870-817c-c7a4f3d8dd96)
+[![image](https://github.com/user-attachments/assets/ff53704c-db60-4870-817c-c7a4f3d8dd96)](https://github.com/josefoberdan/Projeto3DSandPlay/issues/2)
 
 ---
 
