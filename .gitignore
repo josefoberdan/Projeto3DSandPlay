@@ -257,3 +257,4 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.imlupload_to_github.sh
+upload_to_github.sh

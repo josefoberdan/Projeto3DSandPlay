@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Magic Sand
 Magic Sand is a software for operating an augmented reality sandbox like the [Augmented Reality Sandbox](https://arsandbox.ucdavis.edu)
 developped by [UC Davis](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/).
@@ -335,6 +336,8 @@ Minor release of Magic-Sand-with-Games
 ## [1.5.0](https://github.com/thomwolf/Magic-Sand/tree/v1.5) - 08-08-2017
 Initial release of Magic-Sand with Games
 =======
+=======
+>>>>>>> fbffdf4a14c5d2774cae30293b9fdff4c244bcf5
 # Projeto 3D SandPlay
 ### **Autores: Ariane Ruben Calaça Di Menezes, Gabriel dos Santos Dourado, Josef Augusto Oberdan Souza Silva, Juliana Santos de Souza Hannum e Kárita Cecília Rodrigues Silva**
 ### **Orientador: Talles Marcelo Gonçalves de Andrade Barbosa**
@@ -478,9 +481,15 @@ Os casos de uso deste trabalho possibilitam:
 Este projeto segue os termos da licença do repositório original [Magic-Sand](https://github.com/thomwolf/Magic-Sand).
 
 ### **Linguagem de Programação**
+<<<<<<< HEAD
 - **C++**: Linguagem de programação principal usada no desenvolvimento do projeto..  
   Licença: Depende do compilador utilizado (geralmente livre, como GCC/Clang ou MSVC).
   Copyright: © Desenvolvedores do compilador (ex: Free Software Foundation para GCC, Microsoft para MSVC).
+=======
+- **C++**: Linguagem de programação principal usada no desenvolvimento do projeto. 
+  - **Licença**: GCC/Clang ou MSVC
+  - **Copyright**: © Desenvolvedores do compilador (Free Software Foundation para GCC, Microsoft para MSVC)
+>>>>>>> fbffdf4a14c5d2774cae30293b9fdff4c244bcf5
 
 ### **Tecnologias e Bibliotecas Utilizadas**
 - **openFrameworks**: Framework C++ para aplicações, usado para lidar com gráficos, áudio, vídeo e entrada de dispositivos.  
@@ -498,6 +507,7 @@ Este projeto segue os termos da licença do repositório original [Magic-Sand](h
   ---
 
 ### **Ferramentas**
+<<<<<<< HEAD
 - **Visual Studio Code 2015**: IDE utilizada para compilar e rodar o projeto no Windows. 
   Licença: Licença proprietária gratuita para uso pessoal e educacional (Community Edition). 
   Copyright: © Microsoft Corporation.
@@ -505,6 +515,15 @@ Este projeto segue os termos da licença do repositório original [Magic-Sand](h
 - **Zadig**: Ferramenta usada para instalar drivers USB, necessária para fazer o Kinect funcionar.  
   Licença: GPL v3.
   Copyright: © Akeo Consulting.
+=======
+- **Visual Studio Code 2015**: IDE utilizada para compilar e rodar o projeto no Windows.
+  - **Licença**: Licença proprietária gratuita para uso pessoal e educacional (Community Edition)
+  - **Copyright**: © Microsoft Corporation
+  
+- **Zadig**: Ferramenta usada para instalar drivers USB, necessária para fazer o Kinect funcionar.
+  - **Licença**: GPL v3
+  - **Copyright**: © Akeo Consulting
+>>>>>>> fbffdf4a14c5d2774cae30293b9fdff4c244bcf5
 
 ---
 
@@ -532,4 +551,7 @@ Link para leitura do artigo científico: https://www.ijcaonline.org/archives/vol
  ---
 
 Github Magic Sand: https://github.com/thomwolf/Magic-Sand/blob/master/README.md
+<<<<<<< HEAD
 >>>>>>> d6541825e49107f02bb4fa62534d371745372f19
+=======
+>>>>>>> fbffdf4a14c5d2774cae30293b9fdff4c244bcf5
