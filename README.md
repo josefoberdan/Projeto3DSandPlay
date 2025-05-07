@@ -35,7 +35,7 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
 ---
 
    #### **Estrutura Completa do Projeto 3D SandPlay**
-![projeto TCC2](https://github.com/user-attachments/assets/063f9d94-d1ae-4f5b-b95a-d1498a71aeed)
+![projeto TCC2](https://github.com/user-attachments/assets/bafc8894-e3ea-4a82-93e9-7c4852242ea6)
 
 ---
 
@@ -54,15 +54,15 @@ Os casos de uso deste trabalho possibilitam:
 ### **Fluxograma e Processos**
 1. Processos de teste:
    
-![image](https://github.com/user-attachments/assets/44679011-342e-46c9-b1c1-290827085b02)
+![image](https://github.com/user-attachments/assets/64f476d1-ea36-49c2-8bf7-270397e40e1b)
 
 2. Relatório de atividade de teste:
   
-![image](https://github.com/user-attachments/assets/90f0404a-12b1-428f-b9c3-3af4a21d11f3)
+![image](https://github.com/user-attachments/assets/f558d194-33fb-40c9-8106-4c0b3b7a03a3)
 
 3. Teste executado por um voluntário:
      
-![3D_SANDPLAY_2x_optimized](https://github.com/user-attachments/assets/d7f2518b-61c9-4ef2-9e21-1c634a50fbb8)
+![3D_SANDPLAY_2x_optimized](https://github.com/user-attachments/assets/f26d152f-044a-41a0-81cf-f48e49fd209f)
 
 ---
 
@@ -132,7 +132,7 @@ Os casos de uso deste trabalho possibilitam:
 
 ## 📸 Exemplo de Uso
 
-![projeto TCC1](https://github.com/user-attachments/assets/cc541184-8061-4ad7-aa8e-b6719098a00a)
+![projeto TCC1](https://github.com/user-attachments/assets/f77768ca-e2b1-4568-958b-278a755b7fa0)
 
 ---
 
