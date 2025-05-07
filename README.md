@@ -148,7 +148,7 @@ Este projeto segue os termos da licença do repositório original [Magic-Sand](h
   Copyright: © Desenvolvedores do compilador (ex: Free Software Foundation para GCC, Microsoft para MSVC).
 
 ### **Tecnologias e Bibliotecas Utilizadas**
-- **openFrameworks**: Framework C++ para aplicações criativas, usado para lidar com gráficos, áudio, vídeo e entrada de dispositivos.  
+- **openFrameworks**: Framework C++ para aplicações, usado para lidar com gráficos, áudio, vídeo e entrada de dispositivos.  
   **Licença**: MIT License  
   **Copyright**: © openFrameworks contributors
 
