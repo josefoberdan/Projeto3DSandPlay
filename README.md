@@ -174,7 +174,7 @@ Este projeto segue os termos da licença do repositório original [Magic-Sand](h
 ## **Trabalhos Futuros**
 As possíveis melhorias e expansões do sistema incluem:
 - **Novos Casos de Uso**: Adicionar outros casos de uso relacionados a área da saúde.
-- **Testes com outros Componentes de Sistema**: Realizar teste com componentes diferentes de hardware, priorizando a portabilidade e usabilidade.
+- **Testes com outros Componentes de Sistema**: Realizar teste com componentes diferentes de hardware e software, priorizando a portabilidade e usabilidade.
 
 ---
 
