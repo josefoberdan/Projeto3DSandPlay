@@ -26,7 +26,7 @@ fi
 # Adiciona todos os arquivos
 git add .
 
-# Verifica se já há commits para evitar erro no push
+# Verifica se já há commits
 if git rev-parse --verify HEAD >/dev/null 2>&1; then
   echo "📦 Já existe um commit. Adicionando novo commit."
   git commit -m "Atualização do projeto"
@@ -40,23 +40,31 @@ if ! git remote get-url origin >/dev/null 2>&1; then
   git remote add origin "$GITHUB_REPO_URL"
 fi
 
-# Define branch principal como main
+# Define a branch como main
 git branch -M main
 
-# Envia para o GitHub
+# Tenta push inicial
 echo "🚀 Enviando para o GitHub..."
 git push -u origin main
 
-# Se o push falhar, tenta resolver com pull e push novamente
+# Se o push falhar, tenta pull com mesclagem e depois push de novo
 if [ $? -ne 0 ]; then
-  echo "⚠️ Push falhou. Tentando resolver com pull e novo push..."
-  git pull origin main --allow-unrelated-histories
-  git push -u origin main
+  echo "⚠️ O push falhou. Tentando pull e novo push..."
+  git pull origin main --allow-unrelated-histories --no-edit
 
-  if [ $? -ne 0 ]; then
-    echo "❌ Ainda não foi possível enviar o projeto. Verifique conflitos e tente manualmente."
+  if [ $? -eq 0 ]; then
+    git push -u origin main
+    if [ $? -eq 0 ]; then
+      echo "✅ Projeto enviado com sucesso após pull/merge."
+    else
+      echo "❌ Push ainda falhou após pull. Verifique conflitos ou permissões."
+      exit 1
+    fi
+  else
+    echo "❌ Pull falhou. Pode haver conflitos. Resolva manualmente e tente novamente."
     exit 1
   fi
+else
+  echo "✅ Projeto enviado com sucesso para $GITHUB_REPO_URL"
 fi
 
-echo "✅ Projeto enviado com sucesso para $GITHUB_REPO_URL"
