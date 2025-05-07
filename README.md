@@ -47,7 +47,7 @@ Os casos de uso deste trabalho possibilitam:
 [![image](https://github.com/josefoberdan/Projeto3DSandPlay/issues/2)
 
 4. Teste executado por um voluntário:
-[![image](https://github.com/josefoberdan/Projeto3DSandPlay/issues/4)
+[[![image](https://github.com/josefoberdan/Projeto3DSandPlay/issues/4)](https://github.com/josefoberdan/Projeto3DSandPlay/issues/4#issue-3046713078)
 ---
 
 ## **Estrutura do Projeto**
