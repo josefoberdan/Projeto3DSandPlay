@@ -44,7 +44,7 @@ Os casos de uso deste trabalho possibilitam:
 [![image](https://github.com/josefoberdan/Projeto3DSandPlay/issues/3)
 
 3. Relatório de atividade de teste:
-[![image](https://github.com/user-attachments/assets/ff53704c-db60-4870-817c-c7a4f3d8dd96)](https://github.com/josefoberdan/Projeto3DSandPlay/issues/2)
+[![image](https://github.com/josefoberdan/Projeto3DSandPlay/issues/2)
 
 4. Teste executado por um voluntário:
 [![image](https://github.com/josefoberdan/Projeto3DSandPlay/issues/4)
