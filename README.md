@@ -36,7 +36,7 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
 
 ---
 
-   #### **Estrutura Completa**
+   #### **Estrutura Completa do Projeto 3D SandPlay**
 ![projeto TCC2](https://github.com/user-attachments/assets/063f9d94-d1ae-4f5b-b95a-d1498a71aeed)
 
 ---
