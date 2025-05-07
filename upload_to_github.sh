@@ -44,6 +44,19 @@ fi
 git branch -M main
 
 # Envia para o GitHub
+echo "🚀 Enviando para o GitHub..."
 git push -u origin main
+
+# Se o push falhar, tenta resolver com pull e push novamente
+if [ $? -ne 0 ]; then
+  echo "⚠️ Push falhou. Tentando resolver com pull e novo push..."
+  git pull origin main --allow-unrelated-histories
+  git push -u origin main
+
+  if [ $? -ne 0 ]; then
+    echo "❌ Ainda não foi possível enviar o projeto. Verifique conflitos e tente manualmente."
+    exit 1
+  fi
+fi
 
 echo "✅ Projeto enviado com sucesso para $GITHUB_REPO_URL"
