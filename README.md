@@ -29,9 +29,7 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
  - Estrutura metálica galvanizada: 90 centímetros de altura.
 
 ### **Software:**
- - ARSandbox.
- - Magic Sand.
- - Visual Studio Code (© Microsoft Corporation).
+ - Microsoft Visual Studio C++ 2015 (© Microsoft Corporation).
  - Zadig.
 
 ---
