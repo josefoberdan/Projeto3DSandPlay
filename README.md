@@ -8,9 +8,15 @@
 ---
 
 ## **Descrição do Projeto**
-Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele disponibiliza uma **interface tangível** que pode ser utilizada como **reforçador** para o **desenvolvimento intelectual** e da **coordenação motora**. De forma exploratória, lança-se a hipótese que o uso do 3D Sandplay pode facilitar a **compreensão de conceitos abstratos** e, ao mesmo tempo, **promover a integração sensorial** em pessoas com SD.
+Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele disponibiliza uma **interface tangível** que pode ser utilizada como **reforçador** para o **desenvolvimento intelectual** e da **coordenação motora**. De forma exploratória, lança-se a hipótese que o uso do 3D Sandplay pode facilitar a **compreensão de conceitos abstratos** e, ao mesmo tempo, **promover a integração sensorial** em pessoas com Síndrome de Down.
 
 ---
+
+## **Protótipos e Tecnologias**
+- **Hardware:**
+ - 
+
+- - **Software:**
 
 ## **Requisitos do Sistema**
 - **Telegram Bot Token:** Configure
@@ -66,10 +72,14 @@ Este projeto utiliza as seguintes bibliotecas e tecnologias, todas com licenciam
 ---
 
 ### **Frameworks e Bibliotecas**
-- **Flask**: Framework leve para construção de APIs e aplicações web.  
-  Licença: BSD 3-Clause License.  
-  Copyright: © Pallets Project.
-
+- **ARSandbox**: Biblioteca para.  
+  Licença: GNU (General Public License).  
+  Copyright: Free Software Foundation.
+  
+- **Magic Sand**: Biblioteca para.  
+  Licença: GNU (General Public License).  
+  Copyright: Free Software Foundation.
+  
   ---
 
   ### **Ferramentas**
