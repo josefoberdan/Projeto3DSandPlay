@@ -14,8 +14,8 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
 
 ## **Requisitos do Sistema**
 ### **Hardware:**
- - Sensor Microsoft Kinect, versão 1.0 (Microsoft, 2010).
- - Projetor multimídia LED Projetor, modelo YG-300 (Salange Technology, 2014).
+ - Sensor Microsoft Kinect: versão 1.0 (Microsoft, 2010).
+ - Projetor multimídia LED Projetor: modelo YG-300 (Salange Technology, 2014).
  - Dimensões da caixa de areia: 45 centímetros de comprimento, 33 centímetros de largura e 7 centímetros de altura.
  - Estrutura metálica galvanizada: 90 centímetros de altura.
 
