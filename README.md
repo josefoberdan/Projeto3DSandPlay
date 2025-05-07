@@ -133,38 +133,43 @@ Os casos de uso deste trabalho possibilitam:
 
 ---
 
-## 🔗 Licença
+## 🔗 Licenças
 
 Este projeto segue os termos da licença do repositório original [Magic-Sand](https://github.com/thomwolf/Magic-Sand).
 
----
-
 ### **Linguagens de Programação**
-- **Python**: Versão 3.12.2.  
-  Licença: Python Software Foundation License.  
-  Copyright: © Python Software Foundation.
+- **C++**: Linguagem de programação principal usada no desenvolvimento do projeto..  
+  Licença: Depende do compilador utilizado (geralmente livre, como GCC/Clang ou MSVC).
+  Copyright: © Desenvolvedores do compilador (ex: Free Software Foundation para GCC, Microsoft para MSVC).
 
----
+### **Tecnologias e Bibliotecas Utilizadas**
+- **openFrameworks**  
+  Framework C++ para aplicações criativas, usado para lidar com gráficos, áudio, vídeo e entrada de dispositivos.  
+  **Licença**: MIT License  
+  **Copyright**: © openFrameworks contributors
 
-### **Bibliotecas**
-- **ARSandbox**: Biblioteca para.  
-  Licença: GNU (General Public License).  
-  Copyright: Free Software Foundation.
-  
-- **Magic Sand**: Biblioteca para.  
-  Licença: GNU (General Public License).  
-  Copyright: Free Software Foundation.
+- **ofxKinect**  
+  Addon do openFrameworks para comunicação com sensores Kinect.  
+  **Licença**: MIT License  
+  **Copyright**: © Theo Watson e contribuidores do addon
+
+- **libfreenect**  
+  Biblioteca usada para acessar os dados do Kinect (driver alternativo).  
+  **Licença**: Apache License 2.0  
+  **Copyright**: © OpenKinect community
   
   ---
 
 ### **Ferramentas**
-- **VS Code**: IDE para desenvolvimento de software.  
-  Licença: MIT License.  
+- **Visual Studio Code 2015**: IDE utilizada para compilar e rodar o projeto no Windows. 
+  Licença: Licença proprietária gratuita para uso pessoal e educacional (Community Edition). 
   Copyright: © Microsoft Corporation.
   
-- **Zadig**: .  
-  Licença: GNU (General Public License).  
-  Copyright: Free Software Foundation.
+- **Zadig**: Ferramenta usada para instalar drivers USB, necessária para fazer o Kinect funcionar.  
+  Licença: GPL v3.
+  Copyright: © Akeo Consulting.
+
+---
 
 ## **Trabalhos Futuros**
 As possíveis melhorias e expansões do sistema incluem:
@@ -182,11 +187,10 @@ O slide da apresentação se encontra no arquivo do projeto nomeado como: "MIT U
 ## **Vídeo Apresentação do TCC**
 - Vídeo de apresentação do projeto sendo executando está disponível no canal do YouTube da PUC TV Goiás nomeado como: 
 "Robô que dança ajuda alunos do Projeto Alfa Down." https://www.youtube.com/watch?v=UQaTI5Wlw-c&t=190s&ab_channel=PUCTVGOI%C3%81S
----
-Vídeo de apresentação do projeto sendo executando está disponível no seguinte drive:
 
 ---
- Link para leitura do artigo científico: https://www.ijcaonline.org/archives/volume178/number45/30850-2019919360/
+
+Link para leitura do artigo científico: https://www.ijcaonline.org/archives/volume178/number45/30850-2019919360/
 
  ---
 
