@@ -141,15 +141,9 @@ Os casos de uso deste trabalho possibilitam:
 Este projeto segue os termos da licença do repositório original [Magic-Sand](https://github.com/thomwolf/Magic-Sand).
 
 ### **Linguagem de Programação**
-<<<<<<< HEAD
-- **C++**: Linguagem de programação principal usada no desenvolvimento do projeto..  
-  Licença: Depende do compilador utilizado (geralmente livre, como GCC/Clang ou MSVC).
-  Copyright: © Desenvolvedores do compilador (ex: Free Software Foundation para GCC, Microsoft para MSVC).
-=======
 - **C++**: Linguagem de programação principal usada no desenvolvimento do projeto. 
   - **Licença**: GCC/Clang ou MSVC
   - **Copyright**: © Desenvolvedores do compilador (Free Software Foundation para GCC, Microsoft para MSVC)
->>>>>>> fbffdf4a14c5d2774cae30293b9fdff4c244bcf5
 
 ### **Tecnologias e Bibliotecas Utilizadas**
 - **openFrameworks**: Framework C++ para aplicações, usado para lidar com gráficos, áudio, vídeo e entrada de dispositivos.  
@@ -167,15 +161,6 @@ Este projeto segue os termos da licença do repositório original [Magic-Sand](h
   ---
 
 ### **Ferramentas**
-<<<<<<< HEAD
-- **Visual Studio Code 2015**: IDE utilizada para compilar e rodar o projeto no Windows. 
-  Licença: Licença proprietária gratuita para uso pessoal e educacional (Community Edition). 
-  Copyright: © Microsoft Corporation.
-  
-- **Zadig**: Ferramenta usada para instalar drivers USB, necessária para fazer o Kinect funcionar.  
-  Licença: GPL v3.
-  Copyright: © Akeo Consulting.
-=======
 - **Visual Studio Code 2015**: IDE utilizada para compilar e rodar o projeto no Windows.
   - **Licença**: Licença proprietária gratuita para uso pessoal e educacional (Community Edition)
   - **Copyright**: © Microsoft Corporation
@@ -183,7 +168,6 @@ Este projeto segue os termos da licença do repositório original [Magic-Sand](h
 - **Zadig**: Ferramenta usada para instalar drivers USB, necessária para fazer o Kinect funcionar.
   - **Licença**: GPL v3
   - **Copyright**: © Akeo Consulting
->>>>>>> fbffdf4a14c5d2774cae30293b9fdff4c244bcf5
 
 ---
 
