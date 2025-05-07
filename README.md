@@ -1,9 +1,9 @@
 # Projeto 3D SandPlay
-## **Autores: Ariane Ruben Calaça Di Menezes, Gabriel dos Santos Dourado, Josef Augusto Oberdan Souza Silva, Juliana Santos de Souza Hannum e Kárita Cecília Rodrigues Silva**
-## **Orientador: Talles Marcelo Gonçalves de Andrade Barbosa**
-## **Universidade: Pontifícia Universidade Católica de Goiás**
-## **Trabalho de Conclusão de Curso**
-## **Projeto: 3D Sandplay - Um Sistema com Interface Tangível para Pessoas com Síndrome de Down**
+### **Autores: Ariane Ruben Calaça Di Menezes, Gabriel dos Santos Dourado, Josef Augusto Oberdan Souza Silva, Juliana Santos de Souza Hannum e Kárita Cecília Rodrigues Silva**
+### **Orientador: Talles Marcelo Gonçalves de Andrade Barbosa**
+### **Universidade: Pontifícia Universidade Católica de Goiás**
+### **Trabalho de Conclusão de Curso**
+### **Projeto: 3D Sandplay - Um Sistema com Interface Tangível para Pessoas com Síndrome de Down**
 
 ---
 
