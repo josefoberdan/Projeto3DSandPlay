@@ -29,20 +29,25 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
 
 ## **Funcionalidades**
 ### **Interface Gráfica**
-- Exibe gráficos
+- Exibe objetos gráficos na caixa de areia por meio do projetor.
+- Muda o cenário de acordo com a captura de movimentos feitos na região de interesse (caixa de areia).
+- Executa, de forma automática, a calibração utilizando apenas os dados gerados pelo sensor e pelo projetor multimídia.
 
 ## **Casos de Uso**
-Os casos de uso foram baseados no trabalho de Gabriel Lima e possibilitam:
--
+Os casos de uso deste trabalho possibilitam:
+- Aplicar testes e coletar informações necessárias (uso de questionário) para avaliar a execução das atividades propostas aos voluntários.
+- Avaliar a capacidade de replicação das imagens projetadas em um monitor de vídeo pelos voluntários.
+- Analisar se o voluntário manifestou resistência (desconforto ou rejeição) ou interesse ao manipular a areia na caixa.
 
 ### **Fluxograma**
-1. Diagnóstico de Pré-eclâmpsia:
+1. Processos de teste:
 ![image](https://github.com/user-attachments/assets/ff53704c-db60-4870-817c-c7a4f3d8dd96)
 
 ---
 
 ## **Estrutura do Projeto**
-A estrutura foi organizada
+- A estrutura foi organizada da seguinte forma:
+ - 
 
 ---
 
@@ -86,7 +91,7 @@ Este projeto utiliza as seguintes bibliotecas e tecnologias, todas com licenciam
   
   ---
 
-  ### **Ferramentas**
+### **Ferramentas**
 - **VS Code**: IDE para desenvolvimento de software.  
   Licença: MIT License.  
   Copyright: © Microsoft Corporation.
@@ -95,7 +100,7 @@ Este projeto utiliza as seguintes bibliotecas e tecnologias, todas com licenciam
   Licença: GNU (General Public License).  
   Copyright: Free Software Foundation.
 
-  ## **Trabalhos Futuros**
+## **Trabalhos Futuros**
 As possíveis melhorias e expansões do sistema incluem:
 - **Novos Casos de Uso**: Adicionar outros casos de uso relacionados a área da saúde.
 - **Testes com Outras Plataformas**: 
@@ -115,5 +120,8 @@ https://github.com/unlimitedabe/ProjetoTCC/blob/main/Rafael%20Abe%20-%20Slide%20
 Vídeo de apresentação do projeto sendo executando está disponível no seguinte drive:
 
 ---
+ Link para leitura do artigo científico: https://www.ijcaonline.org/archives/volume178/number45/30850-2019919360/
+
+ ---
 
 Github Magic Sand: https://github.com/thomwolf/Magic-Sand/blob/master/README.md
