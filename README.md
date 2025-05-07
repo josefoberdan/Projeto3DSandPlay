@@ -8,7 +8,7 @@
 ---
 
 ## **Descrição do Projeto**
-Este projeto visa 
+Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele disponibiliza uma **interface tangível** que pode ser utilizada como **reforçador** para o **desenvolvimento intelectual** e da **coordenação motora**. De forma exploratória, lança-se a hipótese que o uso do 3D Sandplay pode facilitar a **compreensão de conceitos abstratos** e, ao mesmo tempo, **promover a integração sensorial** em pessoas com SD.
 
 ---
 
