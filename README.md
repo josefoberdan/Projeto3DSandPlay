@@ -27,15 +27,17 @@ Neste projeto é apresentado um sistema ARSandplay chamado de 3D Sandplay. Ele d
  - Projetor multimídia LED Projetor: modelo YG-300 (Salange Technology, 2014).
  - Dimensões da caixa de areia: 45 centímetros de comprimento, 33 centímetros de largura e 7 centímetros de altura.
  - Estrutura metálica galvanizada: 90 centímetros de altura.
-   
-![projeto TCC2](https://github.com/user-attachments/assets/063f9d94-d1ae-4f5b-b95a-d1498a71aeed)
-
 
 ### **Software:**
  - ARSandbox.
  - Magic Sand.
  - Visual Studio Code (© Microsoft Corporation).
  - Zadig.
+
+---
+
+   #### **Estrutura Completa**
+![projeto TCC2](https://github.com/user-attachments/assets/063f9d94-d1ae-4f5b-b95a-d1498a71aeed)
 
 ---
 
