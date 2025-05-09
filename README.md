@@ -190,8 +190,9 @@ O slide da apresentação se encontra no arquivo do projeto nomeado como: "MIT U
 
 ---
 
-Link para leitura do artigo científico: https://www.ijcaonline.org/archives/volume178/number45/30850-2019919360/
-
+Link para leitura dos artigos científicos:
+- IJCA: https://www.ijcaonline.org/archives/volume178/number45/30850-2019919360/
+- IEEE: https://ieeexplore.ieee.org/document/9660441
  ---
 
 Github Magic Sand: https://github.com/thomwolf/Magic-Sand/blob/master/README.md
