@@ -130,9 +130,9 @@ Os casos de uso deste trabalho possibilitam:
 
 ---
 
-## 📸 Exemplo de Uso
+## 📸 Resultado
 
-![projeto TCC1](https://github.com/user-attachments/assets/f77768ca-e2b1-4568-958b-278a755b7fa0)
+![projeto TCC3](https://github.com/user-attachments/assets/dae26351-cbe5-45da-9b38-65e0d8d4dda1)
 
 ---
 
